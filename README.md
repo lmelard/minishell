@@ -48,6 +48,10 @@ The shell includes an advanced lexer and parser to process commands:
 - Effective management of file descriptors and inter-process communication.
 - Proficient use of C language in a complex application.
 
+# Ressources 
+- [Minishell test list @vietdu91 @QnYosa](https://docs.google.com/spreadsheets/d/1uJHQu0VPsjjBkR4hxOeCMEt3AOM1Hp_SmUzPFhAH-nA/edit#gid=0)
+- [Bash manual](https://www.gnu.org/software/bash/manual/bash.html)
+
 # 👥 Contribution and Development
 This project is a collaborative effort :
 
